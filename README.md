@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @struppan
 <!--- - 👀 I’m interested in ... --->
 <!--- - 🌱 I’m currently learning ... --->
-- 🐈 Profile pic by <a href="https://unsplash.com/@bogdanf?utm_content=creditCopyText">Bogdan Farca</a> via <a href="https://unsplash.com/de/fotos/CEx86maLUSc?utm_content=creditCopyText">Unsplash</a>
+- 🐈 Profile pic by <a href="https://unsplash.com/@bogdanf?utm_content=creditCopyText">Bogdan Farca</a> via Unsplash
   
 
 <!---
